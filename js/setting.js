@@ -26,7 +26,7 @@ OpenSpending.Styles.Cofog = {
   '2-3': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-4': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-5': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-6': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
   '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '3-2': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
@@ -59,8 +59,6 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '11-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
   '11-2': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '11-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
   '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '12-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
   '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
